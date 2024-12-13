@@ -1,2 +1,3 @@
 # Data_mining
-Data mining project
+Data mining final project
+
